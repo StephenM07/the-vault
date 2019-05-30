@@ -19,4 +19,3 @@
 //= require popper
 //= require tether
 //= require_tree .
-//= require jquery3
